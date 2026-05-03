@@ -2,12 +2,11 @@
 
 # Laboratorio 4 — Trabajo en Equipo con GitHub: Lista Enlazada Colaborativa
 
-> **Modalidad:** Equipos de 2–3 personas (obligatorio, no individual)
-> **Duración sugerida:** 2.5–3 horas (presencial)
-> **Entregables:** PR mergeado, historial de commits por integrante, evidencia de code review
-> **Prerrequisito:** Laboratorio 1 aprobado (flujo `clone → add → commit → push`)
+> * **Modalidad:** Equipos de 2–3 personas (obligatorio, no individual)
+> * **Entregables:** PR mergeado, historial de commits por integrante, evidencia de code review
+> * **Prerrequisito:** Laboratorio 1 aprobado (flujo `clone → add → commit → push`)
 
-**Propósito:** Practicar el flujo de trabajo colaborativo real de GitHub — ramas, pull requests, code review y resolución de merge conflicts — aplicado a la implementación colectiva de una lista enlazada simple en Python. Este flujo es el que usarán en CodeF@ctory y en la industria.
+**Propósito:** Practicar el flujo de trabajo colaborativo real de GitHub — ramas, pull requests, code review y resolución de merge conflicts — aplicado a la implementación colectiva de una lista enlazada simple en Python. Este flujo será útil para el comprender el manejo de repositorios grupales en escenarios como CodeF@ctory y la industria.
 
 > [!important]
 > En este laboratorio **no se puede trabajar en `main` directamente**. Todo cambio debe llegar a través de un Pull Request revisado por otro integrante del equipo.
